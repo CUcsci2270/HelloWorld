@@ -1,5 +1,19 @@
-# HelloWorld
-I made a hello world program!
-git add
-git commit -m "comment"
-git push origin master
+Wow, that's some pretty thorough sleuthing you did.
+
+I'll buy first reader a coffee. at celestial.
+        ..
+      ..  ..
+            ..
+             ..
+            ..
+           ..
+         ..
+##       ..    ####
+##....this.....##  ##
+##....wont.....##   ##
+##....work.....## ##
+##......I......###
+ ##..betcha....##
+  #############
+  #############
+#################
