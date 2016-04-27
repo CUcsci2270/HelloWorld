@@ -1,5 +1,6 @@
-# HelloWorld
-I made a hello world program!
-git add
-git commit -m "comment"
-git push origin master
+# OOPS! IT'S A TRAP!
+## I think you're in the wrong place!
+
+I think you're looking for https://github.com/Dpasi314/Pasionek_CSCI2270_FinalProject
+
+Sorry if you were misled! D:
