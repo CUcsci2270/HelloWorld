@@ -1,6 +1,10 @@
-# OOPS! IT'S A TRAP!
-## I think you're in the wrong place!
+# OOPS!
+## It's a trap!
 
-I think you're looking for https://github.com/Dpasi314/Pasionek_CSCI2270_FinalProject
+### Hey there! It seems you've been given the wrong repo for CSCI2270 Final Project grading (Spring 2016)
 
-Sorry if you were misled! D:
+### If you're trying to grade Dante Pasionek's repository for Phase 3 of the final project please go to
+
+## https://github.com/Dpasi314/Pasionek_CSCI2270_FinalProject
+
+## [Pasionek_CSCI2270_FinalProject](https://github.com/Dpasi314/Pasionek_CSCI2270_FinalProject)
