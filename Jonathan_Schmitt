@@ -1,0 +1,9 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout<< "Hello World, you're not as great as everyone said you'd be but still cool" <<endl();
+    return 0;
+}
