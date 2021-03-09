@@ -1,9 +1,9 @@
-#include <iostream>
+#include <bits/stdc++.h>
 
 using namespace std; 
 
-int main(int argc, char*argv[])
+int main()
 {
-	cout << "Hello!" << endl;
+	cout << "Hello World!" << endl;
 	return 0;
 }
